@@ -1,0 +1,28 @@
+## Git Commands ##
+1. git init 
+2.git config --global user.name 
+3.git config --global user.email
+4.touch filename
+5.rm filename
+6.git status
+7.git add filename
+8.git add -A
+9.git Commit filename
+10.git commit -m "message" / git commit -a -m "multiple file commit"
+11.git log
+12.git reset --soft commitsshcode
+13.git checkout filename
+14.git checkout -f
+15.git branch branchname
+16.git checkout branchname
+17.git remote add orign link(ssh / link)
+18.git remote -v
+19.git push origin branchname
+20.clear
+21.git diff
+22.git branch branchname.
+23.git checkout branchname
+24.git branch
+25.git Remote set-url (https/ssh) 
+
+**********End of Basic Commands************
